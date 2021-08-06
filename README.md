@@ -5,6 +5,8 @@ Ph.D. and M.S. students to the Department of Statistical Science at
 Duke University. These materials are adapted from those developed by Shawn Santo,
 Mine Çetinkaya-Rundel and Colin Rundel.
 
+### Here is a small change :)
+
 ## Content
 
 | Section      | Topic                           | Video | Slides |
